@@ -10,7 +10,7 @@ API. The app features pagination, offline caching, and a pull-to-refresh mechani
 Setup and Run
 To set up and run the app, follow these steps:
 
-   1. Clone the repository:git clone https://github.com/your-username/news-app.git
+   1. Clone the repository:git clone  https://github.com/durgaprasadp143/newsapp.git
    2. Navigate to the project directory:cd news-app
    3. Install dependencies:flutter pub get
    4. Run the app:flutter run
